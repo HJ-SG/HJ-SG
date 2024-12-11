@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**HJ-SG/HJ-SG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*HJ-SG/HJ-SG** is ✨ _special_ ✨
 
-Here are some ideas to get you started:
+- 🔭 "I'm currently working on"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Integrating programming into my design workflow
+  
+- 🌱 "I’m currently learning"
+
+  The basics in python and how and whhen to implement Ai as an assist
+  
+- ⚡ "Fun fact"
+
+  Canada has the longest coastline in the world
